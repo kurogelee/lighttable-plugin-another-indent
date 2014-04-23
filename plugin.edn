@@ -1,0 +1,6 @@
+{:name "another_indent"
+ :version "0.0.1"
+ :author "kurogelee"
+ :source "https://github.com/kurogelee/lighttable-plugin-another-indent"
+ :desc "追加のインデント方式を提供"
+ :behaviors "another_indent.behaviors"}
